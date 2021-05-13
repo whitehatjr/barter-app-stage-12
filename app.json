@@ -3,7 +3,6 @@
     "name": "barter-app-stage-12",
     "slug": "barter-app-stage-12",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
